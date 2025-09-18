@@ -71,3 +71,10 @@ layout: default
 
 　　**最后啰嗦一句**：网络是连接世界的窗口，但在伯利兹，别忘了时常放下手机。真正的蓝洞奇景、玛雅遗迹的静谧，还有加里富纳人的鼓声，这些体验可比任何一条推送通知都珍贵得多。准备好网络，然后去尽情探索吧。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Belize SIM 卡购买与激活指南](https://faciylike.github.io/belize-sim-guides)
